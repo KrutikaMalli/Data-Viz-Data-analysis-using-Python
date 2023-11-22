@@ -9,3 +9,5 @@ These contain practised datasets on which few Data visualisation or Data analysi
    * Linear Regression performed, Hisplot, Pairplot, Correlation matrix, Model summary using statsmodel, model predictions, assessing the model using residual plot.
 4) Forbes Billionaires Dataset
    * Histplot sorted( top 10 billionaires) based on hue , Donut chart based on Source, Industry, Country.
+5) Ad_Platform Dataset
+   * Linear Regression performed, scatter plots, correlation matrix, model trained to predict future sales.
