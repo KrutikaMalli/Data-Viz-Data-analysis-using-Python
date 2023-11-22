@@ -2,8 +2,8 @@
 These contain practised datasets on which few Data visualisation or Data analysis has been performed and are yet to be finished.
 
 1) Computers Dataset
-   Data visualisation using Histplot, Boxplot, subplots of hisplots between price, speed, ram, Heatmap, Pairplot and lmplot.
+   * Data visualisation using Histplot, Boxplot, subplots of hisplots between price, speed, ram, Heatmap, Pairplot and lmplot.
 2) Insurance Dataset
-   Data visualisation using Bargraph, Heatap, Scatterplot, Bar graph using Groupby, Pairplot, Pairplot using kde, lmplot.
+   * Data visualisation using Bargraph, Heatap, Scatterplot, Bar graph using Groupby, Pairplot, Pairplot using kde, lmplot.
 3) Insurance Datset
-   Linear Regression performed, Hisplot, Pairplot, Correlation matrix, Model summary using statsmodel, model predictions, assessing the model using residual plot.
+   * Linear Regression performed, Hisplot, Pairplot, Correlation matrix, Model summary using statsmodel, model predictions, assessing the model using residual plot.
